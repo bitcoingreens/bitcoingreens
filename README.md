@@ -1,2 +1,2 @@
-# bitcoingreen version 2
+# Bitgreencoin version 2
 Bitgreencoin nPoS based Substrate
